@@ -1,0 +1,7 @@
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.exe
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.dll
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.deps.json
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.runtimeconfig.json
+C:\Users\dlc11\source\repos\MyCoreApp\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.pdb
